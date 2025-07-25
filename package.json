@@ -1,0 +1,19 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "Playwise Internship Assignment",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashishmamania777/To-Do-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashishmamania777/To-Do-App/issues"
+  },
+  "homepage": "https://github.com/kashishmamania777/To-Do-App#readme"
+}
