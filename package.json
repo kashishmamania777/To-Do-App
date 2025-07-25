@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kashishmamania777/To-Do-App/issues"
   },
-  "homepage": "https://github.com/kashishmamania777/To-Do-App#readme"
+  "homepage": "https://github.com/kashishmamania777/To-Do-App#readme",
+  "dependencies": {
+    "expo": "^53.0.20"
+  }
 }
